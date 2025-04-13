@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Soni</h1>
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;Backend+Engineer+%7C+Java+Lover;Real-time+Web+App+Builder;DSA+%26+;Aspiring Software Developer+In+Progress...🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;Backend+Engineer+%7C+Java+Lover;Real-time+Web+App+Builder;+%26+Aspiring+Software+Developer..🚀" alt="Typing SVG" />
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=msoni&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
+  <img src="https://komarev.com/ghpvc/?username=msoni&label=Profile%20views&color=0e75b6&style=flat" alt="msoni" />
 </p>
 
 ---
@@ -33,18 +33,18 @@
 
 ## 🏆 GitHub Trophies:
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&margin-w=10&no-frame=true" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mangalisoni&theme=radical&margin-w=10&no-frame=true" alt="trophies" />
 </p>
 
 ---
 
 ## 📌 Featured Projects:
 
-### 🚀 [ConnectNow](https://github.com/yourusername/ConnectNow)
+### 🚀 [ConnectNow](https://github.com/mangalisoni/ConnectNow)
 > A real-time video conferencing app built with WebRTC, React, and Socket.IO.  
 🛠 Features: Toggle video/audio, screen share, chat, dynamic streams.
 
-### 🧳 [WayFare](https://github.com/yourusername/WayFare)
+### 🧳 [WayFare](https://github.com/mangalisoni/WayFare)
 > Plan, manage, and track group travel expenses collaboratively.  
 🔐 Secure authentication | 💸 Split logic | 📊 Expense charts
 
@@ -52,8 +52,8 @@
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=msoni&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=msoni&theme=tokyonight" height="165" />
 </p>
 
 ---
